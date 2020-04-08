@@ -1,0 +1,10 @@
+process.stdout.write(
+    `当前运行的文件路径${__filename}
+    当前运行的文件夹路径${__dirname}
+    当前node版本${process.version}
+    当前脚本运行的平台${process.platform}
+    当前脚本的运行路径${process.execPath}
+    当前脚本完成运行的时间${process.uptime()}
+    当前进程的工作目录${process.cwd()}
+    `
+)

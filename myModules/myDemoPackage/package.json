@@ -1,0 +1,14 @@
+{
+  "main": "lib/pag.js",
+  "name": "mypackagefirst",
+  "version": "1.0.0",
+  "description": "随便玩的",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yunlong",
+  "license": "ISC"
+}
